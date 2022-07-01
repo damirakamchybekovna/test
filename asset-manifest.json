@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test.git/static/css/main.dfd05004.css",
+    "main.js": "/test.git/static/js/main.4fa6344b.js",
+    "index.html": "/test.git/index.html",
+    "main.dfd05004.css.map": "/test.git/static/css/main.dfd05004.css.map",
+    "main.4fa6344b.js.map": "/test.git/static/js/main.4fa6344b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd05004.css",
+    "static/js/main.4fa6344b.js"
+  ]
+}
